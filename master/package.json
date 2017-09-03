@@ -1,0 +1,17 @@
+{
+  "name": "allindiaservicerequest",
+  "version": "1.0.0",
+  "description": "All India Service Request",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saravanan Selvaraj",
+  "license": "ISC",
+  "dependencies": {
+	"body-parser": "^1.13.3",
+	"express": "^4.13.3",
+	"mongoose": "*",
+	"angular" : "*"
+  }
+}
